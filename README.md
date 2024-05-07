@@ -18,13 +18,13 @@ This project is an advanced file encryption and decryption application that prio
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/secure-file-encryption.git
+    https://github.com/HeshamQutb/Cryptography_Project.git
     ```
 
 2. Navigate to the project directory and install dependencies:
 
     ```bash
-    cd secure-file-encryption
+    cd Cryptography_Project
     pip install -r requirements.txt
     ```
 
@@ -42,7 +42,7 @@ This project is an advanced file encryption and decryption application that prio
    - Select files for encryption/decryption using the file upload/download buttons.
    - Initiate encryption/decryption processes with the corresponding buttons.
    - Optionally specify encryption keys or passphrases for enhanced security.
-4. Save encrypted/decrypted files using the "Save As" button for future reference and secure storage.
+4. Save encrypted/decrypted files using the "Save Result" button for future reference and secure storage.
 
 ## Contributing
 
