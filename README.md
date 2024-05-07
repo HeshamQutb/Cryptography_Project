@@ -6,12 +6,43 @@ This project is an advanced file encryption and decryption application that prio
 
 ## Key Features
 
-- **Multiple Encryption Algorithms:** Employs four distinct encryption algorithms to cater to different security requirements and preferences.
-- **Intuitive User Interfaces:** Provides separate, intuitive user interfaces for each encryption algorithm, ensuring a seamless user experience and ease of navigation.
-- **Text and File Handling:** Accommodates both plain text input and file selection for encryption or decryption. This feature enhances versatility and usability by allowing users to encrypt/decrypt various types of data.
-- **File Management:** Enables users to save the results of encryption/decryption operations to files, empowering them to securely store sensitive information and access it conveniently when needed.
-- **Security Measures:** Implements robust encryption techniques to safeguard data confidentiality and integrity, ensuring that sensitive information remains protected against unauthorized access or interception.
-- **Customization Options:** Offers users the flexibility to specify encryption keys or passphrases, empowering them to customize their security settings according to their unique requirements and preferences.
+### Multiple Encryption Algorithms
+
+Employs four distinct encryption algorithms to cater to different security requirements and preferences.
+
+### Intuitive User Interfaces
+
+Provides separate, intuitive user interfaces for each encryption algorithm, ensuring a seamless user experience and ease of navigation.
+
+### GUI Previews
+
+- **Main Interface:**
+    
+  ![Main Interface](https://github.com/HeshamQutb/Cryptography_Project/assets/81641524/1829a194-dbf7-4110-ac90-dc60ffa2e2bf)
+
+- **Caesar Cipher Interface:**
+    
+  ![Caesar Cipher Interface](https://github.com/HeshamQutb/Cryptography_Project/assets/81641524/ac74a905-06c7-4864-8c44-6afa2d287a2f)
+
+- **OTP Interface:**
+    
+  ![OTP Interface](https://github.com/HeshamQutb/Cryptography_Project/assets/81641524/38af2130-32ca-4218-b276-665e6472a584)
+
+### Text and File Handling
+
+Accommodates both plain text input and file selection for encryption or decryption. This feature enhances versatility and usability by allowing users to encrypt/decrypt various types of data.
+
+### File Management
+
+Enables users to save the results of encryption/decryption operations to files, empowering them to securely store sensitive information and access it conveniently when needed.
+
+### Security Measures
+
+Implements robust encryption techniques to safeguard data confidentiality and integrity, ensuring that sensitive information remains protected against unauthorized access or interception.
+
+### Customization Options
+
+Offers users the flexibility to specify encryption keys or passphrases for enhanced security, allowing them to customize their security settings according to their unique requirements and preferences.
 
 ## Installation
 
